@@ -1,1 +1,1 @@
-# landing-page
+I am building a landing page based off a layout using HTML and CSS.
